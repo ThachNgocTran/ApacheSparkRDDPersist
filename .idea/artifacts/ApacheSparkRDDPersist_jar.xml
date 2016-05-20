@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ApacheSparkRDDPersist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ApacheSparkRDDPersist_jar</output-path>
+    <root id="archive" name="ApacheSparkRDDPersist.jar">
+      <element id="module-output" name="ApacheSparkRDDPersist" />
+    </root>
+  </artifact>
+</component>
